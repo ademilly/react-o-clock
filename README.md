@@ -5,6 +5,11 @@ Using React for fun!
 
 ## Setup
 
+Install dependencies:
+```
+    npm install
+```
+
 To compile bundle.js:
 ```
     browserify main.js -t babelify -o static/js/bundle.js -v 
