@@ -1,0 +1,18 @@
+body {
+    background-color: royalblue;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 8em;
+}
+
+.root {
+    position: relative;
+}
+
+.display {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
