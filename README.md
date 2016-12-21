@@ -12,4 +12,4 @@ To compile bundle.js:
 
 ## Usage
 
-Just open `index,html` with a browser ya dingdong!
+Just open `index.html` with a browser ya dingdong!
